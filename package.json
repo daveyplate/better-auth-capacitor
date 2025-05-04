@@ -34,7 +34,18 @@
             }
         }
     },
-    "keywords": ["typescript"],
+    "keywords": [
+        "typescript",
+        "better-auth",
+        "capacitor",
+        "oauth",
+        "magic link",
+        "universal links",
+        "react",
+        "svelte",
+        "nextjs",
+        "native"
+    ],
     "author": "daveycodez",
     "license": "MIT",
     "devDependencies": {
