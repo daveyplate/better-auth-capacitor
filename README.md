@@ -107,7 +107,7 @@ This plugin enables seamless authentication in Capacitor apps by:
 
 The plugin will:
 - Listen for `appUrlOpen` events
-- Check if the URL is a Better Auth callback
+- Check if the URL is a Better Auth callback (pathname begins with /api/auth)
 - Make the necessary fetch request to complete the authentication
 - Invoke the appropriate callback based on success or failure
 
