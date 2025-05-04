@@ -4,7 +4,8 @@ import { defineConfig } from "tsup"
 export default defineConfig((env) => {
     return {
         entry: {
-            index: "./src/index.ts"
+            index: "./src/index.ts",
+            react: "./src/react.ts"
         },
         format: ["esm", "cjs"],
         splitting: true,
