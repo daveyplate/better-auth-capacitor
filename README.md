@@ -24,6 +24,7 @@ This plugin requires:
 
 - A configured [Better Auth](https://better-auth.com) client
 - [Capacitor](https://capacitorjs.com) with the App plugin (`@capacitor/app`)
+- Capacitor HTTP Plugin or CORS appropriately configured
 - Properly configured Universal Links for iOS/Android
 
 ## Client Setup
